@@ -38,7 +38,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,gitlab,flask,terraform" /><br>
     <img src="https://skillicons.dev/icons?i=python,javascript,java,git" /></br><br>
-    <img src="https://skillicons.dev/icons?i=postman,Azure,docker,selenium" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,azure,docker,selenium" /><br>
 </div>
 
 <br/>
