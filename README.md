@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Siyanda+Mthimkhulu!;" />
 </h1>
 
-<h3 align="center">A passionate software development student available for hire. </h3>
+<h3 align="center">Automation | Testing | AI | Cloud | DevOps . </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a Java tutoring platform  **
+ 🔭 I’m currently working on **a invasive and/or harmful plant checker ,using IBM Watson VR ,and python**
  
- 🌱 I’m currently learning **Git flow,Python,React, Selenium, web hosting, Azure , Software Testing**
+ 🌱 I’m currently learning **AI , IaC , Terraform , Azure , Ochestration, Github Actions**
 
- 💬 Ask me about **Java...**
+ 💬 Ask me about **Automation...**
 
- ⚡ Fun fact **i Dont really know what i'm doing**
+ ⚡ Fun Quote **if i cant build it,then i Dont understand how it works**
  
  </div>
  
@@ -36,8 +36,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,git" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,behave,docker,selenium,jmeter" /><br>
 </div>
 
 <br/>
@@ -50,19 +51,6 @@
   
   <br/><br/><br/>
 </div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
-</p>
-
-<br/><br/>
-<hr/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
