@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a invasive and/or harmful plant checker ,using IBM Watson VR ,and python**
+ 🔭 I’m currently working on **a invasive and/or harmful plant checker ,using Azure Computer Vision ,and python**
  
  🌱 I’m currently learning **AI , IaC , Terraform , Azure , Ochestration, Github Actions**
 
