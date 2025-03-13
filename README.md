@@ -36,9 +36,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,flask,terraform" /><br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,git" /></br><br>
-    <img src="https://skillicons.dev/icons?i=postman,jmeter,docker,selenium" /><br>
+    <img src="https://skillicons.dev/icons?i=github,gitlab,git,ubuntu" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,flask" /></br><br>
+    <img src="https://skillicons.dev/icons?i=postman,terraform,docker,selenium" /><br>
     <img src="https://skillicons.dev/icons?i=prometheus,kubernetes,grafana,azure" /><br>
 </div>
 
