@@ -38,8 +38,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,gitlab,flask,terraform" /><br>
     <img src="https://skillicons.dev/icons?i=python,javascript,java,git" /></br><br>
-    <img src="https://skillicons.dev/icons?i=postman,pytest,docker,selenium" /><br>
-    <img src="https://skillicons.dev/icons?i=podman,kubernetes,grafana,azure" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,jmeter,docker,selenium" /><br>
+    <img src="https://skillicons.dev/icons?i=prometheus,kubernetes,grafana,azure" /><br>
 </div>
 
 <br/>
