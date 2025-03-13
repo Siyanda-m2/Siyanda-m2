@@ -12,11 +12,11 @@
  
  🔭 I’m currently working on **a invasive and/or harmful plant checker ,using Azure Computer Vision ,and python**
  
- 🌱 I’m currently learning **AI , IaC , Terraform , Azure , Ochestration, Github Actions**
+ 🌱 I’m currently learning **AI , IaC , Terraform , Azure , Ochestration using K8s and Helm, Github Actions**
 
- 💬 Ask me about **Automation...**
+ 💬 Ask me about **Testing and Automation...**
 
- ⚡ Fun Quote **if i cant build it,then i Dont understand how it works**
+ ⚡ Fun Quote **if i can't build it,then I Dont understand how it works**
  
  </div>
  
@@ -38,7 +38,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,gitlab,flask,terraform" /><br>
     <img src="https://skillicons.dev/icons?i=python,javascript,java,git" /></br><br>
-    <img src="https://skillicons.dev/icons?i=postman,azure,docker,selenium" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,pytest,docker,selenium" /><br>
+    <img src="https://skillicons.dev/icons?i=podman,kubernetes,grafana,azure" /><br>
 </div>
 
 <br/>
